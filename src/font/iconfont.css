@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3574348 */
+  src: 
+       url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARUAAsAAAAACZwAAAQIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACDMgqGGIU7ATYCJAMUCwwABCAFhGcHWRtuCMgekqQzwhsoJwEHIkPA8fC09r9zZ2b3uzXVaFLFIEQ8iSZ+BC+dkEikYs1LeFe6dPUyCgyEeDJgZW6ZKoQQSl0m1b+rIG6t5SPK58y8BJKERYX2MEeQTUmb6v5xv9LN8QWsZ59hATPawhKzxuOuKSrtCG9u/ET5juFVtxfKA/UVgVarPPCOAp7fErUH2Rwk2oSQzsDJjAfFppIo3JVKAiE0S+qsVxbxCYRJr3mPAHzUPx//wSbESKqM3Ofs1lVP/PPl7nZx9B+B/A1kh4CPTqiQsdgxdTxMNj6QtoKLcK1Rf5exJ6FVsyT9kuOb8xfudv//58sdmriV/sMjJFkhakTYDvg9QZk4FkcIfpkjJH4tIGT+7LK3jrCC41vRC6KVOEb4SRpGN/ty3d7cTojdUjTd/WYVDUKqlUggkugEND40iWHXU8MTkNKeRsTRqWQK6doejRPEm0lmKu4ijJdCMnCfQmroBYZfvyTpt8+B9+pZwdCy4q/8+GthZ68S+UMsy3Dc8OvX6NWrlCHOQ9bGDHMcw7JNheqpTspvZRJYNuEhh1VDr9IG6HWwTI17BdBzG2ssDqDt7f2dHPHb9wjqzYPde2TvIUl2/Mriynoc9WbZ4Vmid+2PoDs4+i9c/JHMI/FNeaeF92rS1fHl5qpmvdILqTqRfmpABCU0UY2ieSNXhciIP3V+cFP8SOYo+2LI/ApGz4w4VcNOWoeGnNNO9wJX14IWRlPSFivHrdM02MQkOAFoIE2AgTT2zspqyLMz8a6wAb/UC9ENYkqiW5LOhe5enqXle8RoSua1dfMkQ2RMSQwtdu/YoRcMGqFb1/yCTQujqb3dQ0mtyC/gpfU1ElgL/RX1xRvq9TTqYJ5p56mXwnsFltM0+p3rHTQh+fkZ7ztooDLBdCC+zdO4Vvh1zsZNz7ijfL7cf5op6fZVrLyRx34qxAiAU4x5xohkZp5fu0srQON/iTsdi8uhKOKHCFReKmBz4iwqOKGsvd5UI+7LTCDEfQ4kTcYgazaOLvh5qLRZh1qzbWi1wP/6Nn2qpEVpwbRuBKHbCiSdvkDW7RZd8BxUBgmg1u0vtLoZ9N3aTEeuL6HCqENOMxTnhoHBJKxXfUHz01MozPeBJGzsAWsLK3/kDgOkMs6pbTCXdXUGFNSEPgRcn4eeF0JVTeigxtOiOo5WlpYFUd8yza30E2cEKRjSgRy/QDFNKGDIyuz9fS+Q6ZNHQRnRH3oiDAasDqxZsMqAvhMGmUp25D61vpiW6jADKEAo7AMBdz3yPsEQqIo+zIE0bKqogD+yYkkrFWQVTpsX+yt4DlqRu1WRIkeJKmpdtysDU9i+LXWahcKeayrmwMOqJfWkCGFr0qdAypQX+0oiAQ==') format('woff2'),
+       url('iconfont.woff?t=1659937383322') format('woff'),
+       url('iconfont.ttf?t=1659937383322') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gongsimingcheng:before {
+  content: "\e614";
+}
+
+.icon-xitong:before {
+  content: "\e62d";
+}
+
+.icon-jurassic_user:before {
+  content: "\e6a5";
+}
+
+.icon-mima:before {
+  content: "\e8b2";
+}
+

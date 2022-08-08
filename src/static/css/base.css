@@ -1,0 +1,11 @@
+image,
+div,
+view {
+  margin: 0;
+  padding: 0;
+}
+
+page {
+  font-size: 26rpx;
+  background: #f5f5f5;
+}
